@@ -1,4 +1,8 @@
-Hello! :) Just another boring person like everyone else here :P
+Hello! This is Vivek :)
+
+I am a Computer Science Student and a Tech Enthusiast
+
+Web Development is what I like to do :)
 
 
 
