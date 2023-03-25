@@ -7,7 +7,7 @@ Tech Enthusiast <br>Web Development is what I like to do here :)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vivekx01&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekx01&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Learning for the visit
+### ✍️ Words of Wisdom
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
