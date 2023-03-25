@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science Student | Tech Enthusiast <br>Web Development is what I like to do here :)
+Tech Enthusiast <br>Web Development is what I like to do here :)
 
 
 ## 🌐 Socials:
