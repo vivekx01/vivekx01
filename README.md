@@ -3,8 +3,8 @@ Exploring the digital universe like a curious astronaut, one console.log at a ti
 
 ## 🌐 Socials:
 
-   [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logoColor=white&logo=portfolio&logoWidth=20&logoHeight=20&labelPadding=2px)](https://google.com/)
-   [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=20&logoHeight=20&labelPadding=2px)](https://twitter.com/vivekx01)
+   [![Portfolio](https://img.shields.io/badge/-Portfolio-teal?style=for-the-badge&logoColor=white&logo=portfolio&logoWidth=20&logoHeight=20&labelPadding=2px)](https://google.com/)
+   [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x&logoColor=white&logoWidth=20&logoHeight=20&labelPadding=2px)](https://twitter.com/vivekx01)
    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&logoHeight=20&labelPadding=2px)](https://www.linkedin.com/in/vivekx01/)
 
 ## Programming languages
