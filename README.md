@@ -1,5 +1,5 @@
 # ㊌ About Me:
-Perpetual learner | Tech Enthusiast
+Exploring the digital universe like a curious astronaut, one console.log at a time!
 
 ## 🌐 Socials:
 
