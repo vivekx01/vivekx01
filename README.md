@@ -7,12 +7,6 @@ Exploring the digital universe like a curious astronaut, one console.log at a ti
  [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=20&logoHeight=20&labelPadding=2px)]()
 
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=vivekx01&theme=highcontrast&hide_border=false)<br/>
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
