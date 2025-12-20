@@ -9,15 +9,13 @@
 
 - 💬 Ask me about **Javascript, Typescript, React, Python, Fastapi, Django, Langchain**
 
-- 📫 How to reach me **vivek77158@gmail.com**
+- 📫 How to reach me: **vivek77158@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ekm6W8rUms8eRLrADL8v2kZfqPxZG1nO/view?usp=sharing](https://drive.google.com/file/d/1Ekm6W8rUms8eRLrADL8v2kZfqPxZG1nO/view?usp=sharing)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1Ekm6W8rUms8eRLrADL8v2kZfqPxZG1nO/view?usp=sharing](https://drive.google.com/file/d/1Ekm6W8rUms8eRLrADL8v2kZfqPxZG1nO/view?usp=sharing)
 
 - ⚡ Fun fact **I like to write code that survives production :)**
 
 
 <div align="center">
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekx01&" alt="vivekx01" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekx01&" alt="vivekx01" /></p>
 </div>
