@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
 <h3 align="center">Full-stack engineer interested in web dev, developer tooling, performance optimisations, and AI-powered systems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekx01&label=Profile%20views&color=0e75b6&style=flat" alt="vivekx01" /> </p>
-
 - 🔭 I’m currently working on [AI Watchdog](https://github.com/vivekx01/ai-watchdog)
 
 - 🌱 I’m currently learning **Langgraph**
@@ -13,7 +11,7 @@
 
 - 📄 Know about my experiences: [https://drive.google.com/file/d/1Ekm6W8rUms8eRLrADL8v2kZfqPxZG1nO/view?usp=sharing](https://drive.google.com/file/d/1Ekm6W8rUms8eRLrADL8v2kZfqPxZG1nO/view?usp=sharing)
 
-- ⚡ Fun fact **I like to write code that survives production :)**
+- ⚡ **I like to write code that survives production :)**
 
 
 <div align="center">
