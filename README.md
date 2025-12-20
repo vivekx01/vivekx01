@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Langgraph**
 
-- 💬 Ask me about **Javascript, Typescript, React, Python, Fastapi, Django, Langchain**
+- 💬 Ask me about **Javascript, Typescript, React, Python, Fastapi, Django, Langchain, Langgraph**
 
 - 📫 How to reach me: **vivek77158@gmail.com**
 
