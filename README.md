@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences: [https://drive.google.com/file/d/1Ekm6W8rUms8eRLrADL8v2kZfqPxZG1nO/view?usp=sharing](https://drive.google.com/file/d/1Ekm6W8rUms8eRLrADL8v2kZfqPxZG1nO/view?usp=sharing)
 
-- ⚡ **I like to write code that survives production :)**
+- ⚡ **I like to write code that survives production**
 
 
 <div align="center">
