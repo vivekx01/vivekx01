@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">Full-stack engineer with experience in web dev, performance optimisations, and agentic systems.</h3>
+<h3 align="center">Full-stack engineer with experience in Web Based Technologies and agentic systems.</h3>
 
 - 🔭 I’m currently working on [AI Watchdog](https://github.com/vivekx01/ai-watchdog)
 
