@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Langgraph, DeepAgents, Agentic Design Patterns**
 
-- 💬 Ask me about **Javascript, Typescript, React, Python, Fastapi, Django, Langchain, Langgraph**
+- 💬 Checkout my technical writings at https://vivekx01.github.io/blog/
 
 - 📫 How to reach me: **vivek77158@gmail.com**
 
