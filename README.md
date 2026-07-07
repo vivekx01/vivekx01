@@ -9,6 +9,6 @@
 
 - 📫 How to reach me: **vivek77158@gmail.com**
 
-- 📄 Know about my experience: [Checkout Profile](https://vivekx01.github.io/blog/)
+- 📄 Know about my experience: [Checkout Profile](https://vivekx01.github.io/)
 
 - ⚡ **I like to build stuff that survives production**
