@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">Slop in, production out..</h3>
+<h3 align="center">Slop in, production out.</h3>
 
 - 🔭 I’m currently working on [Nexus](https://github.com/vivekx01/nexus) | [AI Watchdog](https://github.com/vivekx01/ai-watchdog) | [Spendin](https://github.com/vivekx01/spendin)
 
