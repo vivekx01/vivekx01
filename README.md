@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">Slop in, production out.</h3>
 
 - 🔭 I’m currently working on - check the pins and find out yourself.
 
